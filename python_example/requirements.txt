@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+Flask
+pytest
+pipe
+names
+matplotlib
